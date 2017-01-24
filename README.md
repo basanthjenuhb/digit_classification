@@ -1,2 +1,2 @@
 # digit_classification
-Neural networks for digit classification using different things
+Neural networks for digit classification using different methods
